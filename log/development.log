@@ -1,0 +1,14 @@
+Started GET "/" for 127.0.0.1 at 2017-07-25 09:39:37 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/eameil/.rvm/gems/ruby-2.3.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/eameil/.rvm/gems/ruby-2.3.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (6.2ms)
+Completed 200 OK in 505ms (Views: 20.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-25 09:47:45 +0200
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.2ms)
+Completed 200 OK in 25ms (Views: 23.8ms)
+
+
